@@ -1,0 +1,6 @@
+捐赠者	姓名	性别	联系方式	地址
+1	大田	男	daitan@smartone.so	广州
+2	CC	女	cc@smartone.so	重庆
+3	天骄	女	tj@smartone.so	黑龙江
+4	王子	男	jz@smartone.so	四川
+5	归尘	女	gc@smartone.so	河南
